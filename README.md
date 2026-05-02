@@ -1,7 +1,3 @@
-Got it — I’ll write a **GitHub README** for your **IP Routing (GNS3) case study project** similar style to your SIEM one so it looks consistent in your portfolio.
-
----
-
 # 🌐 Enterprise Network Routing Simulation (GNS3)
 
 ## 📌 Overview
@@ -109,29 +105,6 @@ The objective is to ensure **end-to-end connectivity, optimized routing paths, a
 
 ---
 
-## 🚀 Future Improvements
-
-* Implement network automation (Python/Ansible)
-* Add monitoring tools (SNMP, NetFlow)
-* Integrate with SIEM for security visibility
-* Expand topology for enterprise-scale simulation
-
----
-
-## 📷 Topology
-
-*(Insert your GNS3 topology screenshot here)*
-
----
-
-## 👨‍💻 Author
-
-**Khairul Azim**
-
-* Network & Cybersecurity Enthusiast
-* Aspiring SOC Analyst
-
----
 
 ## 📚 Learning Outcomes
 
@@ -140,10 +113,3 @@ The objective is to ensure **end-to-end connectivity, optimized routing paths, a
 * Improved troubleshooting and network design skills
 * Practical exposure to real-world networking scenarios
 
----
-
-If you want, I can:
-
-* Merge both projects into **one strong cybersecurity portfolio README**
-* Add **GitHub badges (skills, tools, certs like Security+)**
-* Or convert this into a **resume project description (ATS-friendly)** 🚀
